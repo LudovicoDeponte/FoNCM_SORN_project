@@ -28,6 +28,6 @@ We might add some changes and improve its efficiency; specifically there are som
 Any suggestion or contribution is welcomed!
 
 ## To DO:
-* import CoLab
-* import compressed data
-* import anomaly experiment  
+* (DONE) import CoLab
+* (DONE) import compressed data
+* (DONE) import anomaly experiment  
