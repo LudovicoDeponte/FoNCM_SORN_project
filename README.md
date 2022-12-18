@@ -11,7 +11,7 @@ We also modified the plotting function and added a small shell script to program
 
 ### How to run?
 
-Just copy the `FONM_Project` folder in your drive and run all the uncommented cells; data from the runned experiment and the report is included in the folder. 
+Just copy the Jupyter notebook `Final_Project.ipynb` and the `SORN_V2` folder in your drive and run all the uncommented cells; data from the runned experiment and the report is included in the folder `experiment` and must be firstly unzipped, then moved to `SORN_V2/backup`. 
 
 To run different experiments, change the name of the experiment in the shell script from `exp3` to the desired one. Change the iterations value to change the parameter file selected, the number of excitatory neurons and the number of iterations to be performed for each configuration of SORN.
 
