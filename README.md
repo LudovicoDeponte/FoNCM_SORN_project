@@ -17,5 +17,7 @@ If different numbers of excitatory neurons are introduced, include them in <N_VA
 ## Disclaimer!
 
 The code is not beautiful, but it works!
+  
 We might add some changes and improve its efficiency; specifically there are some hard-coded parts and the way in which experiments are saved generate a complex structure of nested folders.
+  
 Any suggestion or contribution is welcomed!
