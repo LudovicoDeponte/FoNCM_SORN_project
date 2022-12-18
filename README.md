@@ -17,6 +17,8 @@ To run different experiments, change the name of the experiment in the shell scr
 
 If different numbers of excitatory neurons are introduced, include them in `<N_VALUES>` list of the `<plotty3>` function as otherwise they will not appear in your graph.
 
+The results of the experiments displayed in `plot1`, `plot2` and `plot3` are zipped at `experiments/CountingTask_exp3_<PARAMETER>`, while the ones for `counterInt` are called `experiments/CountingTask_exp4_<PARAMETER>`.
+
 ## Disclaimer!
 
 The code is not beautiful, but it works!
