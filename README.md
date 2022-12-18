@@ -14,6 +14,8 @@ Just mount the drive and pull the original directory, then run all the cells!
 
 If different numbers of excitatory neurons are introduced, include them in <N_VALUES> list of the <plotty3> function as otherwise they will not appear in your graph.
 
-## Disclamer!
+## Disclaimer!
 
-The code is not beautiful, but it works! We might add some changes and improve it by removing hard-coded parts. Any suggestion or contribution is welcomed!
+The code is not beautiful, but it works!
+We might add some changes and improve its efficiency; specifically there are some hard-coded parts and the way in which experiments are saved generate a complex structure of nested folders.
+Any suggestion or contribution is welcomed!
