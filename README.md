@@ -19,7 +19,7 @@ If different numbers of excitatory neurons are introduced, include them in `<N_V
 
 The results of the experiments displayed in `plot1`, `plot2` and `plot3` are zipped at `experiments/CountingTask_exp3_<PARAMETER>`, while the ones for `counterInt` are called `experiments/CountingTask_exp4_<PARAMETER>`.
 
-## Disclaimer!
+### Disclaimer!
 
 The code is not beautiful, but it works!
   
@@ -27,7 +27,7 @@ We might add some changes and improve its efficiency; specifically there are som
   
 Any suggestion or contribution is welcomed!
 
-## To DO:
+### To DO:
 * (DONE) import CoLab
 * (DONE) import compressed data
 * (DONE) import anomaly experiment  
